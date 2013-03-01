@@ -1,3 +1,4 @@
+set modelines=10
 set ic
 set number ruler
 set tabstop=3 shiftwidth=3 noexpandtab
