@@ -19,3 +19,4 @@ export LSCOLORS=cxfxexexDxexexDxDxcxcx
 export PS1="\[\e[0;33m\]\h\[\e[0m\]: \w > "
 export PATH=.:~/bin:~/node_modules/.bin:/opt/local/bin:/usr/local/bin:/bin:$PATH
 export EDITOR=vim
+export GOPATH=~/go
